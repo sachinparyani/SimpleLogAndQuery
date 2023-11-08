@@ -59,7 +59,7 @@ To run this project, follow these steps:
 
 ![Local Image](server-architecture.png)
 
-The architecture diagram above provides an overview of the server's components and their interactions.
+The architecture diagram above provides an overview of the server's components and their interactions. Here 'r' represents read and 'w' represents writes.
 
 ## Tools Used
 
