@@ -1,0 +1,401 @@
+LineId,Date,Time,Level,Component,Content,EventId,EventTemplate
+1601,17/06/09,20:11:09,INFO,executor.Executor,Finished task 32.0 in stage 27.0 (TID 1272). 2801 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1602,17/06/09,20:11:09,INFO,executor.Executor,Finished task 33.0 in stage 27.0 (TID 1273). 2592 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1603,17/06/09,20:11:09,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1275,E11,Got assigned task <*>
+1604,17/06/09,20:11:09,INFO,executor.Executor,Running task 35.0 in stage 27.0 (TID 1275),E24,Running task <*> in stage <*> (TID <*>)
+1605,17/06/09,20:11:09,INFO,executor.Executor,Finished task 30.0 in stage 27.0 (TID 1270). 2859 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1606,17/06/09,20:11:09,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1276,E11,Got assigned task <*>
+1607,17/06/09,20:11:09,INFO,executor.Executor,Running task 36.0 in stage 27.0 (TID 1276),E24,Running task <*> in stage <*> (TID <*>)
+1608,17/06/09,20:11:09,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1277,E11,Got assigned task <*>
+1609,17/06/09,20:11:09,INFO,executor.Executor,Running task 37.0 in stage 27.0 (TID 1277),E24,Running task <*> in stage <*> (TID <*>)
+1610,17/06/09,20:11:09,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1278,E11,Got assigned task <*>
+1611,17/06/09,20:11:09,INFO,executor.Executor,Running task 38.0 in stage 27.0 (TID 1278),E24,Running task <*> in stage <*> (TID <*>)
+1612,17/06/09,20:11:09,INFO,storage.BlockManager,Found block rdd_42_35 locally,E10,Found block rdd_<*> locally
+1613,17/06/09,20:11:09,INFO,storage.BlockManager,Found block rdd_42_37 locally,E10,Found block rdd_<*> locally
+1614,17/06/09,20:11:09,INFO,storage.BlockManager,Found block rdd_42_38 locally,E10,Found block rdd_<*> locally
+1615,17/06/09,20:11:09,INFO,storage.BlockManager,Found block rdd_42_36 locally,E10,Found block rdd_<*> locally
+1616,17/06/09,20:11:09,INFO,python.PythonRunner,"Times: total = 41, boot = 11, init = 29, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1617,17/06/09,20:11:09,INFO,executor.Executor,Finished task 34.0 in stage 27.0 (TID 1274). 2128 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1618,17/06/09,20:11:09,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1279,E11,Got assigned task <*>
+1619,17/06/09,20:11:09,INFO,executor.Executor,Running task 39.0 in stage 27.0 (TID 1279),E24,Running task <*> in stage <*> (TID <*>)
+1620,17/06/09,20:11:09,INFO,storage.BlockManager,Found block rdd_42_39 locally,E10,Found block rdd_<*> locally
+1621,17/06/09,20:11:09,INFO,python.PythonRunner,"Times: total = 41, boot = 31, init = 9, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1622,17/06/09,20:11:09,INFO,python.PythonRunner,"Times: total = 39, boot = 27, init = 11, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1623,17/06/09,20:11:09,INFO,executor.Executor,Finished task 35.0 in stage 27.0 (TID 1275). 2430 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1624,17/06/09,20:11:09,INFO,python.PythonRunner,"Times: total = 40, boot = 20, init = 19, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1625,17/06/09,20:11:09,INFO,executor.Executor,Finished task 38.0 in stage 27.0 (TID 1278). 2882 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1626,17/06/09,20:11:09,INFO,python.PythonRunner,"Times: total = 42, boot = 27, init = 14, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1627,17/06/09,20:11:09,INFO,executor.Executor,Finished task 37.0 in stage 27.0 (TID 1277). 2349 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1628,17/06/09,20:11:09,INFO,executor.Executor,Finished task 36.0 in stage 27.0 (TID 1276). 2673 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1629,17/06/09,20:11:09,INFO,python.PythonRunner,"Times: total = 39, boot = 17, init = 21, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1630,17/06/09,20:11:09,INFO,executor.Executor,Finished task 39.0 in stage 27.0 (TID 1279). 2267 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1631,17/06/09,20:11:09,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1280,E11,Got assigned task <*>
+1632,17/06/09,20:11:09,INFO,executor.Executor,Running task 0.0 in stage 28.0 (TID 1280),E24,Running task <*> in stage <*> (TID <*>)
+1633,17/06/09,20:11:09,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1281,E11,Got assigned task <*>
+1634,17/06/09,20:11:09,INFO,executor.Executor,Running task 1.0 in stage 28.0 (TID 1281),E24,Running task <*> in stage <*> (TID <*>)
+1635,17/06/09,20:11:09,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1282,E11,Got assigned task <*>
+1636,17/06/09,20:11:09,INFO,executor.Executor,Running task 2.0 in stage 28.0 (TID 1282),E24,Running task <*> in stage <*> (TID <*>)
+1637,17/06/09,20:11:09,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1283,E11,Got assigned task <*>
+1638,17/06/09,20:11:09,INFO,executor.Executor,Running task 3.0 in stage 28.0 (TID 1283),E24,Running task <*> in stage <*> (TID <*>)
+1639,17/06/09,20:11:09,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1284,E11,Got assigned task <*>
+1640,17/06/09,20:11:09,INFO,executor.Executor,Running task 4.0 in stage 28.0 (TID 1284),E24,Running task <*> in stage <*> (TID <*>)
+1641,17/06/09,20:11:09,INFO,broadcast.TorrentBroadcast,Started reading broadcast variable 39,E29,Started reading broadcast variable <*>
+1642,17/06/09,20:11:09,INFO,storage.MemoryStore,"Block broadcast_39_piece0 stored as bytes in memory (estimated size 5.4 KB, free 859.1 KB)",E2,"Block <*> stored as bytes in memory (estimated size <*>, free <*>)"
+1643,17/06/09,20:11:10,INFO,broadcast.TorrentBroadcast,Reading broadcast variable 39 took 716 ms,E20,Reading broadcast variable <*> took <*> ms
+1644,17/06/09,20:11:10,INFO,storage.MemoryStore,"Block broadcast_39 stored as values in memory (estimated size 9.2 KB, free 868.3 KB)",E3,"Block <*> stored as values in memory (estimated size <*>, free <*>)"
+1645,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_1 locally,E10,Found block rdd_<*> locally
+1646,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_4 locally,E10,Found block rdd_<*> locally
+1647,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_3 locally,E10,Found block rdd_<*> locally
+1648,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_2 locally,E10,Found block rdd_<*> locally
+1649,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_0 locally,E10,Found block rdd_<*> locally
+1650,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 39, boot = -790, init = 829, finish = 0",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1651,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 38, boot = -784, init = 822, finish = 0",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1652,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 39, boot = -784, init = 823, finish = 0",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1653,17/06/09,20:11:10,INFO,executor.Executor,Finished task 4.0 in stage 28.0 (TID 1284). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1654,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 41, boot = -768, init = 809, finish = 0",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1655,17/06/09,20:11:10,INFO,executor.Executor,Finished task 2.0 in stage 28.0 (TID 1282). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1656,17/06/09,20:11:10,INFO,executor.Executor,Finished task 3.0 in stage 28.0 (TID 1283). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1657,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 49, boot = -793, init = 841, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1658,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1285,E11,Got assigned task <*>
+1659,17/06/09,20:11:10,INFO,executor.Executor,Running task 5.0 in stage 28.0 (TID 1285),E24,Running task <*> in stage <*> (TID <*>)
+1660,17/06/09,20:11:10,INFO,executor.Executor,Finished task 0.0 in stage 28.0 (TID 1280). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1661,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1286,E11,Got assigned task <*>
+1662,17/06/09,20:11:10,INFO,executor.Executor,Running task 6.0 in stage 28.0 (TID 1286),E24,Running task <*> in stage <*> (TID <*>)
+1663,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1287,E11,Got assigned task <*>
+1664,17/06/09,20:11:10,INFO,executor.Executor,Finished task 1.0 in stage 28.0 (TID 1281). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1665,17/06/09,20:11:10,INFO,executor.Executor,Running task 7.0 in stage 28.0 (TID 1287),E24,Running task <*> in stage <*> (TID <*>)
+1666,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1288,E11,Got assigned task <*>
+1667,17/06/09,20:11:10,INFO,executor.Executor,Running task 8.0 in stage 28.0 (TID 1288),E24,Running task <*> in stage <*> (TID <*>)
+1668,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_5 locally,E10,Found block rdd_<*> locally
+1669,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_6 locally,E10,Found block rdd_<*> locally
+1670,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1289,E11,Got assigned task <*>
+1671,17/06/09,20:11:10,INFO,executor.Executor,Running task 9.0 in stage 28.0 (TID 1289),E24,Running task <*> in stage <*> (TID <*>)
+1672,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_7 locally,E10,Found block rdd_<*> locally
+1673,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_8 locally,E10,Found block rdd_<*> locally
+1674,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_9 locally,E10,Found block rdd_<*> locally
+1675,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 38, boot = 23, init = 15, finish = 0",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1676,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 40, boot = 16, init = 24, finish = 0",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1677,17/06/09,20:11:10,INFO,executor.Executor,Finished task 6.0 in stage 28.0 (TID 1286). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1678,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 42, boot = 13, init = 28, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1679,17/06/09,20:11:10,INFO,executor.Executor,Finished task 5.0 in stage 28.0 (TID 1285). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1680,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 39, boot = 23, init = 16, finish = 0",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1681,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 42, boot = 13, init = 29, finish = 0",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1682,17/06/09,20:11:10,INFO,executor.Executor,Finished task 7.0 in stage 28.0 (TID 1287). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1683,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1290,E11,Got assigned task <*>
+1684,17/06/09,20:11:10,INFO,executor.Executor,Running task 10.0 in stage 28.0 (TID 1290),E24,Running task <*> in stage <*> (TID <*>)
+1685,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1291,E11,Got assigned task <*>
+1686,17/06/09,20:11:10,INFO,executor.Executor,Running task 11.0 in stage 28.0 (TID 1291),E24,Running task <*> in stage <*> (TID <*>)
+1687,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1292,E11,Got assigned task <*>
+1688,17/06/09,20:11:10,INFO,executor.Executor,Finished task 9.0 in stage 28.0 (TID 1289). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1689,17/06/09,20:11:10,INFO,executor.Executor,Finished task 8.0 in stage 28.0 (TID 1288). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1690,17/06/09,20:11:10,INFO,executor.Executor,Running task 12.0 in stage 28.0 (TID 1292),E24,Running task <*> in stage <*> (TID <*>)
+1691,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_10 locally,E10,Found block rdd_<*> locally
+1692,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1293,E11,Got assigned task <*>
+1693,17/06/09,20:11:10,INFO,executor.Executor,Running task 13.0 in stage 28.0 (TID 1293),E24,Running task <*> in stage <*> (TID <*>)
+1694,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_11 locally,E10,Found block rdd_<*> locally
+1695,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1294,E11,Got assigned task <*>
+1696,17/06/09,20:11:10,INFO,executor.Executor,Running task 14.0 in stage 28.0 (TID 1294),E24,Running task <*> in stage <*> (TID <*>)
+1697,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_12 locally,E10,Found block rdd_<*> locally
+1698,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_13 locally,E10,Found block rdd_<*> locally
+1699,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_14 locally,E10,Found block rdd_<*> locally
+1700,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 40, boot = 21, init = 19, finish = 0",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1701,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 39, boot = 19, init = 20, finish = 0",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1702,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 41, boot = 17, init = 24, finish = 0",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1703,17/06/09,20:11:10,INFO,executor.Executor,Finished task 10.0 in stage 28.0 (TID 1290). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1704,17/06/09,20:11:10,INFO,executor.Executor,Finished task 12.0 in stage 28.0 (TID 1292). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1705,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1295,E11,Got assigned task <*>
+1706,17/06/09,20:11:10,INFO,executor.Executor,Running task 15.0 in stage 28.0 (TID 1295),E24,Running task <*> in stage <*> (TID <*>)
+1707,17/06/09,20:11:10,INFO,executor.Executor,Finished task 11.0 in stage 28.0 (TID 1291). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1708,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1296,E11,Got assigned task <*>
+1709,17/06/09,20:11:10,INFO,executor.Executor,Running task 16.0 in stage 28.0 (TID 1296),E24,Running task <*> in stage <*> (TID <*>)
+1710,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 41, boot = 12, init = 28, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1711,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 42, boot = 17, init = 24, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1712,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1297,E11,Got assigned task <*>
+1713,17/06/09,20:11:10,INFO,executor.Executor,Running task 17.0 in stage 28.0 (TID 1297),E24,Running task <*> in stage <*> (TID <*>)
+1714,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_15 locally,E10,Found block rdd_<*> locally
+1715,17/06/09,20:11:10,INFO,executor.Executor,Finished task 14.0 in stage 28.0 (TID 1294). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1716,17/06/09,20:11:10,INFO,executor.Executor,Finished task 13.0 in stage 28.0 (TID 1293). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1717,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_17 locally,E10,Found block rdd_<*> locally
+1718,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1298,E11,Got assigned task <*>
+1719,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_16 locally,E10,Found block rdd_<*> locally
+1720,17/06/09,20:11:10,INFO,executor.Executor,Running task 18.0 in stage 28.0 (TID 1298),E24,Running task <*> in stage <*> (TID <*>)
+1721,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1299,E11,Got assigned task <*>
+1722,17/06/09,20:11:10,INFO,executor.Executor,Running task 19.0 in stage 28.0 (TID 1299),E24,Running task <*> in stage <*> (TID <*>)
+1723,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_18 locally,E10,Found block rdd_<*> locally
+1724,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_19 locally,E10,Found block rdd_<*> locally
+1725,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 40, boot = 19, init = 21, finish = 0",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1726,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 40, boot = 20, init = 20, finish = 0",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1727,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 39, boot = 15, init = 24, finish = 0",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1728,17/06/09,20:11:10,INFO,executor.Executor,Finished task 15.0 in stage 28.0 (TID 1295). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1729,17/06/09,20:11:10,INFO,executor.Executor,Finished task 16.0 in stage 28.0 (TID 1296). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1730,17/06/09,20:11:10,INFO,executor.Executor,Finished task 17.0 in stage 28.0 (TID 1297). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1731,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1300,E11,Got assigned task <*>
+1732,17/06/09,20:11:10,INFO,executor.Executor,Running task 20.0 in stage 28.0 (TID 1300),E24,Running task <*> in stage <*> (TID <*>)
+1733,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 40, boot = 15, init = 25, finish = 0",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1734,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1301,E11,Got assigned task <*>
+1735,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 42, boot = 16, init = 25, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1736,17/06/09,20:11:10,INFO,executor.Executor,Running task 21.0 in stage 28.0 (TID 1301),E24,Running task <*> in stage <*> (TID <*>)
+1737,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1302,E11,Got assigned task <*>
+1738,17/06/09,20:11:10,INFO,executor.Executor,Running task 22.0 in stage 28.0 (TID 1302),E24,Running task <*> in stage <*> (TID <*>)
+1739,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_20 locally,E10,Found block rdd_<*> locally
+1740,17/06/09,20:11:10,INFO,executor.Executor,Finished task 18.0 in stage 28.0 (TID 1298). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1741,17/06/09,20:11:10,INFO,executor.Executor,Finished task 19.0 in stage 28.0 (TID 1299). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1742,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1303,E11,Got assigned task <*>
+1743,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_21 locally,E10,Found block rdd_<*> locally
+1744,17/06/09,20:11:10,INFO,executor.Executor,Running task 23.0 in stage 28.0 (TID 1303),E24,Running task <*> in stage <*> (TID <*>)
+1745,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_22 locally,E10,Found block rdd_<*> locally
+1746,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1304,E11,Got assigned task <*>
+1747,17/06/09,20:11:10,INFO,executor.Executor,Running task 24.0 in stage 28.0 (TID 1304),E24,Running task <*> in stage <*> (TID <*>)
+1748,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_24 locally,E10,Found block rdd_<*> locally
+1749,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_23 locally,E10,Found block rdd_<*> locally
+1750,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 42, boot = 22, init = 19, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1751,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 38, boot = 18, init = 20, finish = 0",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1752,17/06/09,20:11:10,INFO,executor.Executor,Finished task 20.0 in stage 28.0 (TID 1300). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1753,17/06/09,20:11:10,INFO,executor.Executor,Finished task 21.0 in stage 28.0 (TID 1301). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1754,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 42, boot = 14, init = 28, finish = 0",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1755,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1305,E11,Got assigned task <*>
+1756,17/06/09,20:11:10,INFO,executor.Executor,Running task 25.0 in stage 28.0 (TID 1305),E24,Running task <*> in stage <*> (TID <*>)
+1757,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1306,E11,Got assigned task <*>
+1758,17/06/09,20:11:10,INFO,executor.Executor,Finished task 22.0 in stage 28.0 (TID 1302). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1759,17/06/09,20:11:10,INFO,executor.Executor,Running task 26.0 in stage 28.0 (TID 1306),E24,Running task <*> in stage <*> (TID <*>)
+1760,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 39, boot = 15, init = 23, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1761,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_25 locally,E10,Found block rdd_<*> locally
+1762,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1307,E11,Got assigned task <*>
+1763,17/06/09,20:11:10,INFO,executor.Executor,Running task 27.0 in stage 28.0 (TID 1307),E24,Running task <*> in stage <*> (TID <*>)
+1764,17/06/09,20:11:10,INFO,executor.Executor,Finished task 24.0 in stage 28.0 (TID 1304). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1765,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 43, boot = 15, init = 27, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1766,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_26 locally,E10,Found block rdd_<*> locally
+1767,17/06/09,20:11:10,INFO,executor.Executor,Finished task 23.0 in stage 28.0 (TID 1303). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1768,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1308,E11,Got assigned task <*>
+1769,17/06/09,20:11:10,INFO,executor.Executor,Running task 28.0 in stage 28.0 (TID 1308),E24,Running task <*> in stage <*> (TID <*>)
+1770,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_27 locally,E10,Found block rdd_<*> locally
+1771,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1309,E11,Got assigned task <*>
+1772,17/06/09,20:11:10,INFO,executor.Executor,Running task 29.0 in stage 28.0 (TID 1309),E24,Running task <*> in stage <*> (TID <*>)
+1773,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_28 locally,E10,Found block rdd_<*> locally
+1774,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_29 locally,E10,Found block rdd_<*> locally
+1775,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 41, boot = 17, init = 23, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1776,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 41, boot = 17, init = 24, finish = 0",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1777,17/06/09,20:11:10,INFO,executor.Executor,Finished task 25.0 in stage 28.0 (TID 1305). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1778,17/06/09,20:11:10,INFO,executor.Executor,Finished task 26.0 in stage 28.0 (TID 1306). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1779,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 40, boot = 27, init = 13, finish = 0",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1780,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1310,E11,Got assigned task <*>
+1781,17/06/09,20:11:10,INFO,executor.Executor,Running task 30.0 in stage 28.0 (TID 1310),E24,Running task <*> in stage <*> (TID <*>)
+1782,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1311,E11,Got assigned task <*>
+1783,17/06/09,20:11:10,INFO,executor.Executor,Running task 31.0 in stage 28.0 (TID 1311),E24,Running task <*> in stage <*> (TID <*>)
+1784,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 40, boot = 26, init = 14, finish = 0",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1785,17/06/09,20:11:10,INFO,executor.Executor,Finished task 27.0 in stage 28.0 (TID 1307). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1786,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_30 locally,E10,Found block rdd_<*> locally
+1787,17/06/09,20:11:10,INFO,executor.Executor,Finished task 28.0 in stage 28.0 (TID 1308). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1788,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1312,E11,Got assigned task <*>
+1789,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 42, boot = 16, init = 25, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1790,17/06/09,20:11:10,INFO,executor.Executor,Running task 32.0 in stage 28.0 (TID 1312),E24,Running task <*> in stage <*> (TID <*>)
+1791,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_31 locally,E10,Found block rdd_<*> locally
+1792,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1313,E11,Got assigned task <*>
+1793,17/06/09,20:11:10,INFO,executor.Executor,Running task 33.0 in stage 28.0 (TID 1313),E24,Running task <*> in stage <*> (TID <*>)
+1794,17/06/09,20:11:10,INFO,executor.Executor,Finished task 29.0 in stage 28.0 (TID 1309). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1795,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_32 locally,E10,Found block rdd_<*> locally
+1796,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1314,E11,Got assigned task <*>
+1797,17/06/09,20:11:10,INFO,executor.Executor,Running task 34.0 in stage 28.0 (TID 1314),E24,Running task <*> in stage <*> (TID <*>)
+1798,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_33 locally,E10,Found block rdd_<*> locally
+1799,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_34 locally,E10,Found block rdd_<*> locally
+1800,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 40, boot = 18, init = 22, finish = 0",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1801,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 41, boot = 19, init = 22, finish = 0",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1802,17/06/09,20:11:10,INFO,executor.Executor,Finished task 30.0 in stage 28.0 (TID 1310). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1803,17/06/09,20:11:10,INFO,executor.Executor,Finished task 31.0 in stage 28.0 (TID 1311). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1804,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 40, boot = 15, init = 25, finish = 0",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1805,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1315,E11,Got assigned task <*>
+1806,17/06/09,20:11:10,INFO,executor.Executor,Running task 35.0 in stage 28.0 (TID 1315),E24,Running task <*> in stage <*> (TID <*>)
+1807,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1316,E11,Got assigned task <*>
+1808,17/06/09,20:11:10,INFO,executor.Executor,Running task 36.0 in stage 28.0 (TID 1316),E24,Running task <*> in stage <*> (TID <*>)
+1809,17/06/09,20:11:10,INFO,executor.Executor,Finished task 32.0 in stage 28.0 (TID 1312). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1810,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 42, boot = 16, init = 25, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1811,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_35 locally,E10,Found block rdd_<*> locally
+1812,17/06/09,20:11:10,INFO,executor.Executor,Finished task 33.0 in stage 28.0 (TID 1313). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1813,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1317,E11,Got assigned task <*>
+1814,17/06/09,20:11:10,INFO,executor.Executor,Running task 37.0 in stage 28.0 (TID 1317),E24,Running task <*> in stage <*> (TID <*>)
+1815,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 40, boot = 14, init = 25, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1816,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_36 locally,E10,Found block rdd_<*> locally
+1817,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1318,E11,Got assigned task <*>
+1818,17/06/09,20:11:10,INFO,executor.Executor,Finished task 34.0 in stage 28.0 (TID 1314). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1819,17/06/09,20:11:10,INFO,executor.Executor,Running task 38.0 in stage 28.0 (TID 1318),E24,Running task <*> in stage <*> (TID <*>)
+1820,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_37 locally,E10,Found block rdd_<*> locally
+1821,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1319,E11,Got assigned task <*>
+1822,17/06/09,20:11:10,INFO,executor.Executor,Running task 39.0 in stage 28.0 (TID 1319),E24,Running task <*> in stage <*> (TID <*>)
+1823,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_38 locally,E10,Found block rdd_<*> locally
+1824,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_39 locally,E10,Found block rdd_<*> locally
+1825,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 41, boot = 23, init = 18, finish = 0",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1826,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 41, boot = 19, init = 22, finish = 0",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1827,17/06/09,20:11:10,INFO,executor.Executor,Finished task 35.0 in stage 28.0 (TID 1315). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1828,17/06/09,20:11:10,INFO,executor.Executor,Finished task 36.0 in stage 28.0 (TID 1316). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1829,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 38, boot = 14, init = 24, finish = 0",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1830,17/06/09,20:11:10,INFO,executor.Executor,Finished task 37.0 in stage 28.0 (TID 1317). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1831,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 42, boot = 19, init = 22, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1832,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 40, boot = 14, init = 26, finish = 0",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1833,17/06/09,20:11:10,INFO,executor.Executor,Finished task 38.0 in stage 28.0 (TID 1318). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1834,17/06/09,20:11:10,INFO,executor.Executor,Finished task 39.0 in stage 28.0 (TID 1319). 2087 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1835,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1320,E11,Got assigned task <*>
+1836,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1321,E11,Got assigned task <*>
+1837,17/06/09,20:11:10,INFO,executor.Executor,Running task 0.0 in stage 29.0 (TID 1320),E24,Running task <*> in stage <*> (TID <*>)
+1838,17/06/09,20:11:10,INFO,executor.Executor,Running task 1.0 in stage 29.0 (TID 1321),E24,Running task <*> in stage <*> (TID <*>)
+1839,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1322,E11,Got assigned task <*>
+1840,17/06/09,20:11:10,INFO,executor.Executor,Running task 2.0 in stage 29.0 (TID 1322),E24,Running task <*> in stage <*> (TID <*>)
+1841,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1323,E11,Got assigned task <*>
+1842,17/06/09,20:11:10,INFO,executor.Executor,Running task 3.0 in stage 29.0 (TID 1323),E24,Running task <*> in stage <*> (TID <*>)
+1843,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1324,E11,Got assigned task <*>
+1844,17/06/09,20:11:10,INFO,executor.Executor,Running task 4.0 in stage 29.0 (TID 1324),E24,Running task <*> in stage <*> (TID <*>)
+1845,17/06/09,20:11:10,INFO,broadcast.TorrentBroadcast,Started reading broadcast variable 40,E29,Started reading broadcast variable <*>
+1846,17/06/09,20:11:10,INFO,storage.MemoryStore,"Block broadcast_40_piece0 stored as bytes in memory (estimated size 6.0 KB, free 874.3 KB)",E2,"Block <*> stored as bytes in memory (estimated size <*>, free <*>)"
+1847,17/06/09,20:11:10,INFO,broadcast.TorrentBroadcast,Reading broadcast variable 40 took 10 ms,E20,Reading broadcast variable <*> took <*> ms
+1848,17/06/09,20:11:10,INFO,storage.MemoryStore,"Block broadcast_40 stored as values in memory (estimated size 9.9 KB, free 884.2 KB)",E3,"Block <*> stored as values in memory (estimated size <*>, free <*>)"
+1849,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_0 locally,E10,Found block rdd_<*> locally
+1850,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_4 locally,E10,Found block rdd_<*> locally
+1851,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_3 locally,E10,Found block rdd_<*> locally
+1852,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_2 locally,E10,Found block rdd_<*> locally
+1853,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_1 locally,E10,Found block rdd_<*> locally
+1854,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 40, boot = -79, init = 118, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1855,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 39, boot = -75, init = 113, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1856,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 40, boot = -80, init = 119, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1857,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 41, boot = -85, init = 125, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1858,17/06/09,20:11:10,INFO,executor.Executor,Finished task 3.0 in stage 29.0 (TID 1323). 2128 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1859,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 42, boot = -74, init = 115, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1860,17/06/09,20:11:10,INFO,executor.Executor,Finished task 4.0 in stage 29.0 (TID 1324). 2128 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1861,17/06/09,20:11:10,INFO,executor.Executor,Finished task 0.0 in stage 29.0 (TID 1320). 2128 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1862,17/06/09,20:11:10,INFO,executor.Executor,Finished task 2.0 in stage 29.0 (TID 1322). 2128 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1863,17/06/09,20:11:10,INFO,executor.Executor,Finished task 1.0 in stage 29.0 (TID 1321). 2171 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1864,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1325,E11,Got assigned task <*>
+1865,17/06/09,20:11:10,INFO,executor.Executor,Running task 5.0 in stage 29.0 (TID 1325),E24,Running task <*> in stage <*> (TID <*>)
+1866,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1326,E11,Got assigned task <*>
+1867,17/06/09,20:11:10,INFO,executor.Executor,Running task 6.0 in stage 29.0 (TID 1326),E24,Running task <*> in stage <*> (TID <*>)
+1868,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1327,E11,Got assigned task <*>
+1869,17/06/09,20:11:10,INFO,executor.Executor,Running task 7.0 in stage 29.0 (TID 1327),E24,Running task <*> in stage <*> (TID <*>)
+1870,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1328,E11,Got assigned task <*>
+1871,17/06/09,20:11:10,INFO,executor.Executor,Running task 8.0 in stage 29.0 (TID 1328),E24,Running task <*> in stage <*> (TID <*>)
+1872,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1329,E11,Got assigned task <*>
+1873,17/06/09,20:11:10,INFO,executor.Executor,Running task 9.0 in stage 29.0 (TID 1329),E24,Running task <*> in stage <*> (TID <*>)
+1874,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_5 locally,E10,Found block rdd_<*> locally
+1875,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_7 locally,E10,Found block rdd_<*> locally
+1876,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_8 locally,E10,Found block rdd_<*> locally
+1877,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_6 locally,E10,Found block rdd_<*> locally
+1878,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_9 locally,E10,Found block rdd_<*> locally
+1879,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 39, boot = 18, init = 20, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1880,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 41, boot = 16, init = 24, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1881,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 43, boot = 25, init = 17, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1882,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 41, boot = 19, init = 21, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1883,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 42, boot = 24, init = 17, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1884,17/06/09,20:11:10,INFO,executor.Executor,Finished task 7.0 in stage 29.0 (TID 1327). 2171 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1885,17/06/09,20:11:10,INFO,executor.Executor,Finished task 5.0 in stage 29.0 (TID 1325). 2171 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1886,17/06/09,20:11:10,INFO,executor.Executor,Finished task 8.0 in stage 29.0 (TID 1328). 2128 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1887,17/06/09,20:11:10,INFO,executor.Executor,Finished task 9.0 in stage 29.0 (TID 1329). 2128 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1888,17/06/09,20:11:10,INFO,executor.Executor,Finished task 6.0 in stage 29.0 (TID 1326). 2171 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1889,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1330,E11,Got assigned task <*>
+1890,17/06/09,20:11:10,INFO,executor.Executor,Running task 10.0 in stage 29.0 (TID 1330),E24,Running task <*> in stage <*> (TID <*>)
+1891,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1331,E11,Got assigned task <*>
+1892,17/06/09,20:11:10,INFO,executor.Executor,Running task 11.0 in stage 29.0 (TID 1331),E24,Running task <*> in stage <*> (TID <*>)
+1893,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1332,E11,Got assigned task <*>
+1894,17/06/09,20:11:10,INFO,executor.Executor,Running task 12.0 in stage 29.0 (TID 1332),E24,Running task <*> in stage <*> (TID <*>)
+1895,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1333,E11,Got assigned task <*>
+1896,17/06/09,20:11:10,INFO,executor.Executor,Running task 13.0 in stage 29.0 (TID 1333),E24,Running task <*> in stage <*> (TID <*>)
+1897,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_10 locally,E10,Found block rdd_<*> locally
+1898,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1334,E11,Got assigned task <*>
+1899,17/06/09,20:11:10,INFO,executor.Executor,Running task 14.0 in stage 29.0 (TID 1334),E24,Running task <*> in stage <*> (TID <*>)
+1900,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_11 locally,E10,Found block rdd_<*> locally
+1901,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_12 locally,E10,Found block rdd_<*> locally
+1902,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_14 locally,E10,Found block rdd_<*> locally
+1903,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_13 locally,E10,Found block rdd_<*> locally
+1904,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 39, boot = 19, init = 19, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1905,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 41, boot = 21, init = 19, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1906,17/06/09,20:11:10,INFO,executor.Executor,Finished task 11.0 in stage 29.0 (TID 1331). 2128 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1907,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 39, boot = 15, init = 23, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1908,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 42, boot = 18, init = 23, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1909,17/06/09,20:11:10,INFO,executor.Executor,Finished task 10.0 in stage 29.0 (TID 1330). 2128 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1910,17/06/09,20:11:10,INFO,python.PythonRunner,"Times: total = 43, boot = 15, init = 27, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1911,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1335,E11,Got assigned task <*>
+1912,17/06/09,20:11:10,INFO,executor.Executor,Running task 15.0 in stage 29.0 (TID 1335),E24,Running task <*> in stage <*> (TID <*>)
+1913,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1336,E11,Got assigned task <*>
+1914,17/06/09,20:11:10,INFO,executor.Executor,Finished task 14.0 in stage 29.0 (TID 1334). 2128 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1915,17/06/09,20:11:10,INFO,executor.Executor,Finished task 12.0 in stage 29.0 (TID 1332). 2128 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1916,17/06/09,20:11:10,INFO,executor.Executor,Running task 16.0 in stage 29.0 (TID 1336),E24,Running task <*> in stage <*> (TID <*>)
+1917,17/06/09,20:11:10,INFO,executor.Executor,Finished task 13.0 in stage 29.0 (TID 1333). 2171 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1918,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1337,E11,Got assigned task <*>
+1919,17/06/09,20:11:10,INFO,executor.Executor,Running task 17.0 in stage 29.0 (TID 1337),E24,Running task <*> in stage <*> (TID <*>)
+1920,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1338,E11,Got assigned task <*>
+1921,17/06/09,20:11:10,INFO,executor.Executor,Running task 18.0 in stage 29.0 (TID 1338),E24,Running task <*> in stage <*> (TID <*>)
+1922,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_16 locally,E10,Found block rdd_<*> locally
+1923,17/06/09,20:11:10,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1339,E11,Got assigned task <*>
+1924,17/06/09,20:11:10,INFO,executor.Executor,Running task 19.0 in stage 29.0 (TID 1339),E24,Running task <*> in stage <*> (TID <*>)
+1925,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_15 locally,E10,Found block rdd_<*> locally
+1926,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_17 locally,E10,Found block rdd_<*> locally
+1927,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_18 locally,E10,Found block rdd_<*> locally
+1928,17/06/09,20:11:10,INFO,storage.BlockManager,Found block rdd_42_19 locally,E10,Found block rdd_<*> locally
+1929,17/06/09,20:11:11,INFO,python.PythonRunner,"Times: total = 40, boot = 20, init = 19, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1930,17/06/09,20:11:11,INFO,python.PythonRunner,"Times: total = 40, boot = 20, init = 19, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1931,17/06/09,20:11:11,INFO,python.PythonRunner,"Times: total = 39, boot = 18, init = 20, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1932,17/06/09,20:11:11,INFO,python.PythonRunner,"Times: total = 41, boot = 27, init = 14, finish = 0",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1933,17/06/09,20:11:11,INFO,executor.Executor,Finished task 15.0 in stage 29.0 (TID 1335). 2171 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1934,17/06/09,20:11:11,INFO,executor.Executor,Finished task 16.0 in stage 29.0 (TID 1336). 2171 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1935,17/06/09,20:11:11,INFO,executor.Executor,Finished task 18.0 in stage 29.0 (TID 1338). 2128 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1936,17/06/09,20:11:11,INFO,python.PythonRunner,"Times: total = 41, boot = 15, init = 25, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1937,17/06/09,20:11:11,INFO,executor.Executor,Finished task 17.0 in stage 29.0 (TID 1337). 2128 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1938,17/06/09,20:11:11,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1340,E11,Got assigned task <*>
+1939,17/06/09,20:11:11,INFO,executor.Executor,Running task 20.0 in stage 29.0 (TID 1340),E24,Running task <*> in stage <*> (TID <*>)
+1940,17/06/09,20:11:11,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1341,E11,Got assigned task <*>
+1941,17/06/09,20:11:11,INFO,executor.Executor,Running task 21.0 in stage 29.0 (TID 1341),E24,Running task <*> in stage <*> (TID <*>)
+1942,17/06/09,20:11:11,INFO,executor.Executor,Finished task 19.0 in stage 29.0 (TID 1339). 2128 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1943,17/06/09,20:11:11,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1342,E11,Got assigned task <*>
+1944,17/06/09,20:11:11,INFO,executor.Executor,Running task 22.0 in stage 29.0 (TID 1342),E24,Running task <*> in stage <*> (TID <*>)
+1945,17/06/09,20:11:11,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1343,E11,Got assigned task <*>
+1946,17/06/09,20:11:11,INFO,executor.Executor,Running task 23.0 in stage 29.0 (TID 1343),E24,Running task <*> in stage <*> (TID <*>)
+1947,17/06/09,20:11:11,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1344,E11,Got assigned task <*>
+1948,17/06/09,20:11:11,INFO,storage.BlockManager,Found block rdd_42_21 locally,E10,Found block rdd_<*> locally
+1949,17/06/09,20:11:11,INFO,executor.Executor,Running task 24.0 in stage 29.0 (TID 1344),E24,Running task <*> in stage <*> (TID <*>)
+1950,17/06/09,20:11:11,INFO,storage.BlockManager,Found block rdd_42_20 locally,E10,Found block rdd_<*> locally
+1951,17/06/09,20:11:11,INFO,storage.BlockManager,Found block rdd_42_22 locally,E10,Found block rdd_<*> locally
+1952,17/06/09,20:11:11,INFO,storage.BlockManager,Found block rdd_42_23 locally,E10,Found block rdd_<*> locally
+1953,17/06/09,20:11:11,INFO,storage.BlockManager,Found block rdd_42_24 locally,E10,Found block rdd_<*> locally
+1954,17/06/09,20:11:11,INFO,python.PythonRunner,"Times: total = 39, boot = 16, init = 22, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1955,17/06/09,20:11:11,INFO,python.PythonRunner,"Times: total = 41, boot = 18, init = 22, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1956,17/06/09,20:11:11,INFO,python.PythonRunner,"Times: total = 42, boot = 20, init = 21, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1957,17/06/09,20:11:11,INFO,executor.Executor,Finished task 21.0 in stage 29.0 (TID 1341). 2128 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1958,17/06/09,20:11:11,INFO,python.PythonRunner,"Times: total = 43, boot = 15, init = 27, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1959,17/06/09,20:11:11,INFO,executor.Executor,Finished task 22.0 in stage 29.0 (TID 1342). 2171 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1960,17/06/09,20:11:11,INFO,executor.Executor,Finished task 23.0 in stage 29.0 (TID 1343). 2171 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1961,17/06/09,20:11:11,INFO,python.PythonRunner,"Times: total = 41, boot = 15, init = 25, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1962,17/06/09,20:11:11,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1345,E11,Got assigned task <*>
+1963,17/06/09,20:11:11,INFO,executor.Executor,Running task 25.0 in stage 29.0 (TID 1345),E24,Running task <*> in stage <*> (TID <*>)
+1964,17/06/09,20:11:11,INFO,executor.Executor,Finished task 20.0 in stage 29.0 (TID 1340). 2128 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1965,17/06/09,20:11:11,INFO,executor.Executor,Finished task 24.0 in stage 29.0 (TID 1344). 2128 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1966,17/06/09,20:11:11,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1346,E11,Got assigned task <*>
+1967,17/06/09,20:11:11,INFO,executor.Executor,Running task 26.0 in stage 29.0 (TID 1346),E24,Running task <*> in stage <*> (TID <*>)
+1968,17/06/09,20:11:11,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1347,E11,Got assigned task <*>
+1969,17/06/09,20:11:11,INFO,executor.Executor,Running task 27.0 in stage 29.0 (TID 1347),E24,Running task <*> in stage <*> (TID <*>)
+1970,17/06/09,20:11:11,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1348,E11,Got assigned task <*>
+1971,17/06/09,20:11:11,INFO,storage.BlockManager,Found block rdd_42_25 locally,E10,Found block rdd_<*> locally
+1972,17/06/09,20:11:11,INFO,executor.Executor,Running task 28.0 in stage 29.0 (TID 1348),E24,Running task <*> in stage <*> (TID <*>)
+1973,17/06/09,20:11:11,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1349,E11,Got assigned task <*>
+1974,17/06/09,20:11:11,INFO,executor.Executor,Running task 29.0 in stage 29.0 (TID 1349),E24,Running task <*> in stage <*> (TID <*>)
+1975,17/06/09,20:11:11,INFO,storage.BlockManager,Found block rdd_42_26 locally,E10,Found block rdd_<*> locally
+1976,17/06/09,20:11:11,INFO,storage.BlockManager,Found block rdd_42_28 locally,E10,Found block rdd_<*> locally
+1977,17/06/09,20:11:11,INFO,storage.BlockManager,Found block rdd_42_27 locally,E10,Found block rdd_<*> locally
+1978,17/06/09,20:11:11,INFO,storage.BlockManager,Found block rdd_42_29 locally,E10,Found block rdd_<*> locally
+1979,17/06/09,20:11:11,INFO,python.PythonRunner,"Times: total = 41, boot = 23, init = 17, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1980,17/06/09,20:11:11,INFO,python.PythonRunner,"Times: total = 38, boot = 18, init = 20, finish = 0",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1981,17/06/09,20:11:11,INFO,python.PythonRunner,"Times: total = 42, boot = 18, init = 23, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1982,17/06/09,20:11:11,INFO,python.PythonRunner,"Times: total = 39, boot = 18, init = 20, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1983,17/06/09,20:11:11,INFO,executor.Executor,Finished task 25.0 in stage 29.0 (TID 1345). 2128 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1984,17/06/09,20:11:11,INFO,executor.Executor,Finished task 28.0 in stage 29.0 (TID 1348). 2128 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1985,17/06/09,20:11:11,INFO,executor.Executor,Finished task 27.0 in stage 29.0 (TID 1347). 2128 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1986,17/06/09,20:11:11,INFO,executor.Executor,Finished task 26.0 in stage 29.0 (TID 1346). 2128 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1987,17/06/09,20:11:11,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1350,E11,Got assigned task <*>
+1988,17/06/09,20:11:11,INFO,executor.Executor,Running task 30.0 in stage 29.0 (TID 1350),E24,Running task <*> in stage <*> (TID <*>)
+1989,17/06/09,20:11:11,INFO,python.PythonRunner,"Times: total = 43, boot = 14, init = 28, finish = 1",E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+1990,17/06/09,20:11:11,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1351,E11,Got assigned task <*>
+1991,17/06/09,20:11:11,INFO,executor.Executor,Running task 31.0 in stage 29.0 (TID 1351),E24,Running task <*> in stage <*> (TID <*>)
+1992,17/06/09,20:11:11,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1352,E11,Got assigned task <*>
+1993,17/06/09,20:11:11,INFO,executor.Executor,Running task 32.0 in stage 29.0 (TID 1352),E24,Running task <*> in stage <*> (TID <*>)
+1994,17/06/09,20:11:11,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1353,E11,Got assigned task <*>
+1995,17/06/09,20:11:11,INFO,executor.Executor,Running task 33.0 in stage 29.0 (TID 1353),E24,Running task <*> in stage <*> (TID <*>)
+1996,17/06/09,20:11:11,INFO,storage.BlockManager,Found block rdd_42_30 locally,E10,Found block rdd_<*> locally
+1997,17/06/09,20:11:11,INFO,executor.Executor,Finished task 29.0 in stage 29.0 (TID 1349). 2128 bytes result sent to driver,E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1998,17/06/09,20:11:11,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 1354,E11,Got assigned task <*>
+1999,17/06/09,20:11:11,INFO,executor.Executor,Running task 34.0 in stage 29.0 (TID 1354),E24,Running task <*> in stage <*> (TID <*>)
+2000,17/06/09,20:11:11,INFO,storage.BlockManager,Found block rdd_42_32 locally,E10,Found block rdd_<*> locally
